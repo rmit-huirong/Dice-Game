@@ -1,0 +1,40 @@
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Roller: ROLLING Dice 1: 3,  Dice 2: 5 .. Total: 8
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Roller: ROLLING Dice 1: 3,  Dice 2: 2 .. Total: 5
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Roller: ROLLING Dice 1: 1,  Dice 2: 6 .. Total: 7
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Roller: ROLLING Dice 1: 4,  Dice 2: 6 .. Total: 10
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Roller: ROLLING Dice 1: 1,  Dice 2: 6 .. Total: 7
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+INFO: The Roller: *RESULT* Dice 1: 4,  Dice 2: 1 .. Total: 5
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Loser: ROLLING Dice 1: 6,  Dice 2: 2 .. Total: 8
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Loser: ROLLING Dice 1: 2,  Dice 2: 4 .. Total: 6
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Loser: ROLLING Dice 1: 6,  Dice 2: 1 .. Total: 7
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Loser: ROLLING Dice 1: 4,  Dice 2: 1 .. Total: 5
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: The Loser: ROLLING Dice 1: 5,  Dice 2: 2 .. Total: 7
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+INFO: The Loser: *RESULT* Dice 1: 5,  Dice 2: 6 .. Total: 11
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: House: ROLLING Dice 1: 5,  Dice 2:  1 .. Total: 6
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: House: ROLLING Dice 1: 3,  Dice 2:  1 .. Total: 4
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: House: ROLLING Dice 1: 1,  Dice 2:  4 .. Total: 5
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: House: ROLLING Dice 1: 5,  Dice 2:  4 .. Total: 9
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+FINE: House: ROLLING Dice 1: 5,  Dice 2:  1 .. Total: 6
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayRoll
+INFO: House: *RESULT* Dice 1: 4,  Dice 2:  3 .. Total: 7
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayResult
+INFO: Player: id=1, name=The Roller, points=900
+Apr 12, 2018 9:40:03 PM model.GameEngineCallbackImpl displayResult
+INFO: Player: id=2, name=The Loser, points=600
